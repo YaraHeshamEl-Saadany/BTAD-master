@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757465061219",
+    "project_id": "btad-4b72d",
+    "storage_bucket": "btad-4b72d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757465061219:android:b90d106c28aea234bde556",
+        "android_client_info": {
+          "package_name": "com.example.btad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757465061219-3er5lmvsulq5br3a2t9u3qrbo55mpfto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw6ftJyE7yBXx0CcikRzmQymQ-FGikHtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757465061219-3er5lmvsulq5br3a2t9u3qrbo55mpfto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
